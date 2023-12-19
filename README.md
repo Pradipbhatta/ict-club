@@ -1,2 +1,3 @@
 # ict-club
-This is  ict clube website projects 
+This is  ict clube website projects
+Author:Pradip Bhatta
